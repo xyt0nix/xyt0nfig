@@ -9,6 +9,7 @@ My public TF2 custom folder and configs.
 * Useful scripts
 * Demo support
 * High visibility explosion replacement
+* Spray + Decals Removed
 
 ## Custom Content
 * Mastercomfig: https://mastercomfig.com
