@@ -9,7 +9,7 @@ My public TF2 custom folder and configs.
 * Useful scripts
 * Demo support
 * High visibility explosion replacement
-* Spray + Decals Removed
+* Sprays + Decals Removed
 
 ## Custom Content
 * Mastercomfig: https://mastercomfig.com
@@ -19,6 +19,12 @@ My public TF2 custom folder and configs.
 * Custom Voting sounds: https://gamebanana.com/sounds/63961
 * HD Backpack item icons: https://gamebanana.com/mods/316151
 * No explosion smoke script: https://www.teamfortress.tv/25647/no-explosion-smoke-script
+* No Noisemaker sounds: https://cobyyolo.vip/mods/files/Anti-Noisemaker.vpk
+* No Miss Pauling ConTracker: https://gamebanana.com/mods/325900
+* No Custom Decals: https://gamebanana.com/mods/295666
+* No Halloween Healthkits: https://gamebanana.com/mods/401775
+* Fixed original left hand: https://gamebanana.com/mods/206388
+* Fumo Profane Puppeteer: https://gamebanana.com/mods/326761
 
 ## Mastercomfig Modules
 * Medium-Low with custom modules.txt
