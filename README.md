@@ -18,6 +18,7 @@ My public TF2 custom folder and configs.
 * Custom killsound: https://huds.tf/site/s-sirky-hitsound-utcomp
 * Custom Voting sounds: https://gamebanana.com/sounds/63961
 * HD Backpack item icons: https://gamebanana.com/mods/316151
+* No Halloween Souls: https://www.teamfortress.tv/50295/no-halloween-souls-mod
 * No explosion smoke script: https://www.teamfortress.tv/25647/no-explosion-smoke-script
 * No Noisemaker sounds: https://cobyyolo.vip/mods/files/Anti-Noisemaker.vpk
 * No Miss Pauling ConTracker: https://gamebanana.com/mods/325900
