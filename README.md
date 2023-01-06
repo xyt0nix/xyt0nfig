@@ -30,6 +30,7 @@ My config essentially serves to disable as many distractions as possible, so no 
 * No Jingle Cosmetics: https://gamebanana.com/sounds/42182
 * No Soul sounds: https://www.dropbox.com/s/i3xfqqmee82n8tn/nosouls.vpk?dl=0
 * Fixed original left hand: https://gamebanana.com/mods/206388
+* Old/Reverted Original Reload Sound: https://gamebanana.com/sounds/65522
 * Fumo Profane Puppeteer: https://gamebanana.com/mods/326761
 
 ## Mastercomfig Modules
