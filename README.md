@@ -25,11 +25,12 @@ My config essentially serves to disable as many distractions as possible, so no 
 * No Noisemaker sounds: https://cobyyolo.vip/mods/files/Anti-Noisemaker.vpk
 * No Miss Pauling ConTracker: https://gamebanana.com/mods/325900
 * No Custom Decals: https://gamebanana.com/mods/295666
-* No BotKillers, Christmas Lights, and Zombie Skins: https://github.com/Fedora31/no-hats-bgum
+* No Cosmetics, BotKillers, Christmas Lights, and Zombie Skins: https://github.com/Fedora31/no-hats-bgum
 * No Halloween Healthkits: https://gamebanana.com/mods/401775
 * No Jingle Cosmetics: https://gamebanana.com/sounds/42182
 * No Soul sounds: https://www.dropbox.com/s/i3xfqqmee82n8tn/nosouls.vpk?dl=0
 * Fixed original left hand: https://gamebanana.com/mods/206388
+* Old/Reverted Original Reload Sound: https://gamebanana.com/sounds/65522
 * Fumo Profane Puppeteer: https://gamebanana.com/mods/326761
 
 ## Mastercomfig Modules
